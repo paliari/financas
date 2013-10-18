@@ -1,0 +1,12 @@
+.idea/
+.DS_Store
+.project
+.Trashes
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
